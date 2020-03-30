@@ -6,4 +6,8 @@
 ```shell
 split -l 1000000 empresas.csv 
 ```
+
 ### Remove null bytes from CSV:
+```shell
+
+```
