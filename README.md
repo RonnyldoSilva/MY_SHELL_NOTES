@@ -13,3 +13,6 @@ sed -i 's/\x0//g' file.csv
 ```
 
 ### Rename files by incrementing a number within the filename
+```shell
+
+```
