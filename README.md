@@ -1,5 +1,5 @@
 # MY SHELL NOTES
-
+ 
 ## CSV
 ### Split file by number of lines:
 #### split -l 'number of lines' 'file'
